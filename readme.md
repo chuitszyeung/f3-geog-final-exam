@@ -1,7 +1,7 @@
 # Geography final exam
 ## syllabus
 4.1 - 4.6 <br/>
-bring **cal, pencil, bring protector**(4 marks) <br/>
+bring **cal, pencil, bring protector, a piece of string**(4 marks) <br/>
 ## Exam content
 20 mcq 1m/q<br/>
 15 tf 1m/q **(10 marks ntsr) (no volume no data)**<br/>
